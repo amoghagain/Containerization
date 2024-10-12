@@ -8,7 +8,7 @@ Tasks :
    This repository contains the Docker setup for launching a web application along with a separate database container. The application is accessible on `localhost:8080`, while the database is isolated within a Docker network.
 
    The Rails app is locally directed and dockerfile and docker-compose are updated as in the folder my-app-task and accordingly we can containerize the application using the below commands:
-   ![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.002.png)![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.003.png)
+   ![image alt](https://github.com/amoghagain/Containerization/blob/f3d362374975b4a65e598bf6ad5ed52a1db0872e/bonus0.PNG)
 
 1. Bonus 1:
 
