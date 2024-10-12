@@ -10,6 +10,10 @@ Tasks :
    The Rails app is locally directed and dockerfile and docker-compose are updated as in the folder my-app-task and accordingly we can containerize the application using the below commands:
    ![image alt](https://github.com/amoghagain/Containerization/blob/f3d362374975b4a65e598bf6ad5ed52a1db0872e/bonus0.PNG)
 
+
+
+   ![image alt](https://github.com/amoghagain/Containerization/blob/d6274d03e43eb2181ab5f962423bd5db2a97ad72/bonus01.PNG)
+
 1. Bonus 1:
 
    An **Nginx container** refers to a Docker container that runs the Nginx web server. Nginx is a high-performance web server and reverse proxy server that can also be used as a load balancer, HTTP cache, and more. Running Nginx in a container allows you to easily deploy, manage, and scale your web applications or services in isolated environments.
