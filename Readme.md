@@ -1,10 +1,10 @@
 ﻿# Containerization 
 
-**Containerization** in Docker refers to the process of packaging an application and its dependencies into a standardized unit called a **container**. This approach allows developers to create, deploy, and run applications consistently across various computing environments.
+## **Containerization** in Docker refers to the process of packaging an application and its dependencies into a standardized unit called a **container**. This approach allows developers to create, deploy, and run applications consistently across various computing environments.
 
-Tasks :
+**Tasks** :
 
-1. Task:
+1. **Task**:
    This repository contains the Docker setup for launching a web application along with a separate database container. The application is accessible on `localhost:8080`, while the database is isolated within a Docker network.
 
    The Rails app is locally directed and dockerfile and docker-compose are updated as in the folder my-app-task and accordingly we can containerize the application using the below commands:
@@ -14,7 +14,7 @@ Tasks :
 
    ![image alt](https://github.com/amoghagain/Containerization/blob/d6274d03e43eb2181ab5f962423bd5db2a97ad72/bonus01.PNG)
 
-2. Bonus 1:
+2. **Bonus 1**:
 
    An **Nginx container** refers to a Docker container that runs the Nginx web server. Nginx is a high-performance web server and reverse proxy server that can also be used as a load balancer, HTTP cache, and more. Running Nginx in a container allows you to easily deploy, manage, and scale your web applications or services in isolated environments.
 
@@ -32,7 +32,7 @@ Tasks :
 
    ![image alt](https://github.com/amoghagain/Containerization/blob/8e220c8780dab56f002d5811135c035bd84d2bde/bonus12.PNG)
 
-3. Bonus-2 
+3. **Bonus-2:** 
 
    This task is similar to the above one but we are trying to launch multiple rails containers connecting to a single database.
 
@@ -51,7 +51,7 @@ Tasks :
 
    ![image alt](https://github.com/amoghagain/Containerization/blob/97ca956fe957f21cf6705bce25c625d4466c5446/bonus23.PNG)
 
-4. Bonus-3 :
+4. **Bonus-3 :**
 
    The last task involves persistence:
 
