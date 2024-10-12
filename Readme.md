@@ -14,7 +14,7 @@ Tasks :
 
    ![image alt](https://github.com/amoghagain/Containerization/blob/d6274d03e43eb2181ab5f962423bd5db2a97ad72/bonus01.PNG)
 
-1. Bonus 1:
+2. Bonus 1:
 
    An **Nginx container** refers to a Docker container that runs the Nginx web server. Nginx is a high-performance web server and reverse proxy server that can also be used as a load balancer, HTTP cache, and more. Running Nginx in a container allows you to easily deploy, manage, and scale your web applications or services in isolated environments.
 
@@ -30,9 +30,9 @@ Tasks :
 
 
 
-   ![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.006.png)
+   ![image alt](https://github.com/amoghagain/Containerization/blob/8e220c8780dab56f002d5811135c035bd84d2bde/bonus12.PNG)
 
-1. Bonus-2 
+3. Bonus-2 
 
    This task is similar to the above one but we are trying to launch multiple rails containers connecting to a single database.
 
@@ -51,7 +51,7 @@ Tasks :
 
    ![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.010.png)
 
-1. Bonus-3 :
+4. Bonus-3 :
 
    The last task involves persistence:
 
