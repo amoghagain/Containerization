@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.001.png)Containerization 
+﻿#Containerization 
 
 **Containerization** in Docker refers to the process of packaging an application and its dependencies into a standardized unit called a **container**. This approach allows developers to create, deploy, and run applications consistently across various computing environments.
 
