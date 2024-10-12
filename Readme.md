@@ -38,7 +38,7 @@ Tasks :
 
    The above folder ‘my-app-bonus-2’ explains this.
 
-   ![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.007.png)
+   ![image alt](https://github.com/amoghagain/Containerization/blob/14b7d41e4709d387175adad8a61d8dd988df078a/bonus2.PNG)
 
 
 
