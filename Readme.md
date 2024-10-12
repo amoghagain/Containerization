@@ -79,3 +79,6 @@ This setup enables you to run a web application with a MySQL database using Dock
 
 
 ![image alt](https://github.com/amoghagain/Containerization/blob/ece2b7ed55641b77b44b129e77df3862d78505c4/bonus32.PNG)
+
+
+![image alt](https://github.com/amoghagain/Containerization/blob/fecc47c3298b958c59886bdff732f1538bc4ff2f/bonus33.PNG)
