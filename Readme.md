@@ -72,7 +72,7 @@ This setup enables you to run a web application with a MySQL database using Dock
 
 
 
-![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.012.png)
+![image alt](https://github.com/amoghagain/Containerization/blob/efe92a62cfe6f1af3e7b4d14a6067fa4842572a9/bonus31.PNG)
 
 
 
