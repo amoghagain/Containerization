@@ -23,7 +23,7 @@ Tasks :
    We have an additional nginx file created and bought into implementation for this as the above folder my-app-bonus-1 explains about it.
 
 
-   ![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.004.png)
+   ![image alt](https://github.com/amoghagain/Containerization/blob/e6cecfa98ec8b733468edb9b497f6b15024ce2cf/bonus1.PNG)
 
 
    ![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.005.png)
