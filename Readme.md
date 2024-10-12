@@ -49,7 +49,7 @@ Tasks :
 
 
 
-   ![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.010.png)
+   ![image alt](https://github.com/amoghagain/Containerization/blob/97ca956fe957f21cf6705bce25c625d4466c5446/bonus23.PNG)
 
 4. Bonus-3 :
 
