@@ -66,7 +66,7 @@ Tasks :
 
 This setup enables you to run a web application with a MySQL database using Docker, ensuring that important data and configurations persist even when containers are stopped or removed. You can easily manage your application with Docker Compose, making it straightforward to start, stop, and monitor your containers.
 
-![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.011.png)
+![image alt](https://github.com/amoghagain/Containerization/blob/b04cc4308a02d093480d51d586c4e879b67ae187/bonus3.PNG)
 
 
 
