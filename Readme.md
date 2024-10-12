@@ -43,7 +43,7 @@ Tasks :
 
 
 
-   ![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.008.png)
+   ![image alt](https://github.com/amoghagain/Containerization/blob/697869391553e3726b47e676a6090ac2617b8e33/bonus21.PNG)
 
    ![](Aspose.Words.7bdc1be7-b65b-44c6-90f1-ba100b872425.009.png)
 
